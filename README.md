@@ -1,2 +1,2 @@
 # to-do-list
-Aplicacion web de tareas
+Aplicacion web de tareas creadas con ReactJS
